@@ -3,8 +3,8 @@ const Discord = require("discord.js");
 const fetch = require("node-fetch");
 const client = new Client();
 
-const prefix = '-';
-const token = 'ODg1MTI4NTMyNTY3NjY2Nzc4.YTiiLw.8gaOV3gP8xBqd49x5CFdb0yfb80'; 
+const prefix = ''; //set your prefix
+const token = ''; //set your bot token
 
 
 const log = message => {
@@ -96,7 +96,7 @@ client.on("message", async message => {
         //log
         console.log("********************");
         console.log(new Date());
-        console.log('starting youtube')
+        console.log('youtube')
         console.log('Room = ' + message.member.voice.channel.name);
         console.log('Server = ' + message.guild.name);
         console.log("********************");
