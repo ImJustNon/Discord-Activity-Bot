@@ -11,7 +11,9 @@
 
 ![](https://cdn.discordapp.com/attachments/887363452304261140/895249088755413012/unknown.png)
 
-## วิธีติดตั้ง
+## Host Windows
+
+**วิธีติดตั้ง**
 
 1) Run ` #Update.cmd `
 2) Enter the ` index.js ` and set your prefix and bot token
@@ -19,10 +21,14 @@
 4) Run ` #RunBot.cmd `
 5) Have Fun
 
-## Install
+**Install**
 
 1) รันไฟล์ ` #Update.cmd `
 2) เข้าไปเเก้ไขไฟล์ ` index.js ` เพื่อเข้าไปตั่งค่า prefix เเละ Bot Token
 3) เซฟไฟล์ ` index.js ` ให้เรียบร้อย
 4) รัน ` #RunBot.cmd `
 5) ขอให้สนุกนะค้าบ
+
+## Replit IDE (เเนะนำ)
+
+1) เข้าลิ้ง 
