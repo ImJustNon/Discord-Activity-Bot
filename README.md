@@ -1,11 +1,11 @@
 ## Discord-Activity-Bot
 
-- :game_die:**Poker Night**
-- :video_game:**Betrayal.io**
-- :tv:**YouTube Together** 
-- :diving_mask:**Fishington.io** 
-- :chess_pawn:**Chess in the Park** 
-- :gear:**Chess in the Park Development**
+- :game_die: | **Poker Night**
+- :video_game:  | **Betrayal.io**
+- :tv: | **YouTube Together** 
+- :diving_mask: | **Fishington.io** 
+- :chess_pawn: | **Chess in the Park** 
+- :gear: | **Chess in the Park Development**
 
 ![](https://cdn.discordapp.com/attachments/887363452304261140/895248975379197962/unknown.png)
 
