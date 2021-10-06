@@ -1,11 +1,11 @@
 ## Discord-Activity-Bot
 
-- **Poker Night 
-- **Betrayal.io 
-- **YouTube Together 
-- **Fishington.io 
-- **Chess in the Park 
-- **Chess in the Park Development
+- **Poker Night**
+- **Betrayal.io**
+- **YouTube Together** 
+- **Fishington.io** 
+- **Chess in the Park** 
+- **Chess in the Park Development**
 
 ![](https://cdn.discordapp.com/attachments/887363452304261140/895248975379197962/unknown.png)
 
