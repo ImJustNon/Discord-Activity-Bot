@@ -1,4 +1,4 @@
-## Discord-Activity-Bot
+## ☃Discord-Activity-Bot☃
 
 - :game_die: | **Poker Night**
 - :video_game:  | **Betrayal.io**
