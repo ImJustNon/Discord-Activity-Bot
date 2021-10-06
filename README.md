@@ -31,4 +31,6 @@
 
 ## Replit IDE (เเนะนำ)
 
-1) เข้าลิ้ง 
+1) เข้าลิ้ง  https://replit.com/github/ImJustNon/Discord-Activity-Bot
+2) เข้าไปเเก้ไขไฟล์ ` index.js ` เพื่อเข้าไปตั่งค่า prefix เเละ Bot Token
+3) กด **RUN** ด้านบน
